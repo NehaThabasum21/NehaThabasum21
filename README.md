@@ -19,7 +19,7 @@ Hello, I'm [Neha Thabasum]! 👋
 ## Connect with Me
 - 📫 How to reach me: [nehathabasum98@gmail.com]
 - 🔗 LinkedIn: [Your LinkedIn Profile URL]
-- 🌐 Personal Website/Blog: [Your Website/Blog URL]
+  
 
 ## Interests
 - 🌍 Open source contributions
